@@ -1,0 +1,1 @@
+  // Use %d for integer input

@@ -1,7 +1,11 @@
 {
     "C_Cpp.errorSquiggles": "disabled",
     "files.associations": {
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "ytoungestAMONGTHREE.C": "cpp",
+        "BASICOFLOOPS.C": "cpp",
+        "BASICOFLOOPS2.C": "cpp",
+        "APWITHOUTNUMBERS.C": "cpp"
     },
     "code-runner.runInTerminal": true,
     "code-runner.saveAllFilesBeforeRun": false,
